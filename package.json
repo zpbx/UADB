@@ -1,0 +1,28 @@
+{
+  "name": "uadb",
+  "version": "0.0.0",
+  "description": "User-agent database, and parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cssmagic/UADB.git"
+  },
+  "keywords": [
+    "user-agent",
+    "database",
+    "parser"
+  ],
+  "author": "cssmagic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cssmagic/UADB/issues"
+  },
+  "homepage": "https://github.com/cssmagic/UADB",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "chai": "^1.9.1"
+  }
+}
