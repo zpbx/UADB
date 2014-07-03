@@ -1,4 +1,3 @@
-UADB
-====
+# UADB
 
-User-agent database. And parser.
+User-agent DataBase, and parser.

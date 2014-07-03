@@ -1,0 +1,31 @@
+{
+  "name": "uadb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cssmagic/UADB",
+  "authors": [
+    "cssmagic"
+  ],
+  "description": "User-agent database, and parser.",
+  "main": "dist/uadb.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "user-agent",
+    "database",
+    "parser"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "gruntfile.js",
+    "test"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
