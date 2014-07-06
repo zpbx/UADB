@@ -1,0 +1,1 @@
+brew-applet/0x20068888 (brew/3.1.5.20; deviceid: 40144; lang: zhcn) ucweb-squid

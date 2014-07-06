@@ -1,0 +1,62 @@
+//samsung
+mozilla/5.0 (linux; android 4.4.2; zh-cn; samsung gt-i9500 build/kot49h) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 mobile safari/537.36
+mozilla/5.0 (linux; android 4.2.2; zh-cn; samsung gt-i9152 build/jdq39) applewebkit/535.19 (khtml, like gecko) version/1.0 chrome/18.0.1025.308 mobile safari/535.19
+mozilla/5.0 (linux; android 4.2.2; zh-cn; samsung-gt-i8558_td/1.0 android/4.2.2 release/04.15.2013 browser/applewebkit535.19 build/jdq39) applelwebkit/535.19 (khtml, like gecko) version/1.0 chrome/18.0.1025.308 mobile safari/535.19
+mozilla/5.0 (linux; android 4.2.2; zh-cn; samsung-gt-i9508_td/1.0 android/4.2.2 release/03.15.2013 browser/applewebkit535.19 build/jdq39) applelwebkit/535.19 (khtml, like gecko) version/1.0 chrome/18.0.1025.308 mobile safari/535.19
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; samsung-gt-n7108_td/1.0 android/4.1.1 release/08.30.2012 browser/applewebkit534.30 build/jro03c) applelwebkit/534.30 (khtml,like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.0.4; zh-cn; samsung-gt-s7568_td/1.0 android/4.0.4 release/07.15.2012 browser/applewebkit534.30 build/imm76d) applelwebkit/534.30 (khtml,like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; samsung-gt-s7568i_td/1.0 android/4.1.2 release/07.15.2013 browser/applewebkit534.30 build/jro03l) applelwebkit/534.30 (khtml,like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; samsung-sm-g3819d build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; android 4.3; zh-cn; samsung-sm-n9009 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 mobile safari/537.36
+mozilla/5.0 (linux; android 4.3; zh-cn; samsung-sm-g7108_td release/08.30.2013 browser/applewebkit537.36 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 mobile safari/537.36
+mozilla/5.0 (linux; android 4.2.2; zh-cn; samsung-sm-g3818_td/1.0 android/4.2.2 release/08.15.2013 browser/applewebkit535.19 build/jdq39) applelwebkit/535.19 (khtml, like gecko) version/1.0 mobile safari/535.19
+samsung-gt-i9128i_td/1.0 android/4.2.2 release/04.03.2013 browser/applewebkit535.19
+samsung-gt-i8258_td/1.0 android/4.0.4 release/09.24.2012 browser/applewebkit534.30
+samsung-gt-s3850/1.0 shp/vpp/r5 dolfin/2.0 smm-mms/1.2.0 profile/midp-2.1 configuration/cldc-1.1
+mqqbrowser/mini2.6 (samsung-gt-s5292)
+//sch
+mozilla/5.0 (linux; u; android 2.3.6; zh-cn; sch-i619 build/gingerbread) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 2.3.6; zh-cn; sch-i699 build/gingerbread) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; sch-i739 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; sch-i829 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; sch-i869 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 2.3.6; zh-cn; sch-w999 build/gingerbread) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 4.0.4; zh-cn; sch-w2013 build/imm76d) applewebkit/534.24 (khtml, like gecko) version/4.0 mobile safari/534.24 t5/2.0 baiduboxapp/5.3 (baidu; p1 4.0.4)
+//no `samsung` or `sch`
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; gt-i8552 build/jzo54k) applewebkit/537.36 (khtml, like gecko)version/4.0 mqqbrowser/5.2 mobile safari/537.36
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; gt-i9082i build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; gt-i9152 build/jdq39) applewebkit/537.36 (khtml, like gecko)version/4.0 mqqbrowser/5.2 mobile safari/537.36
+//GALAXY S???
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; gt-i9100 build/gingerbread) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
+//GALAXY SIII
+mozilla/5.0 (linux; u; android 4.0.4; zh-cn; gt-i9300 build/imm76d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+//GALAXY S4
+mozilla/5.0 (linux; android 4.3; zh-cn; samsung gt-i9500 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 mobile safari/537.36
+
+
+//xiaomi
+mozilla/5.0 (linux; u; android 4.0.1; zh-cn; mi-one plus build/itl41d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; android 4.1.1; mi 2 build/jro03l) applewebkit/537.36 (khtml, like gecko) version/4.0 mobile safari/537.36 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2s build/jro03l) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2sc build/jro03l) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.2.1; zh-cn; mi 3 build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.3; zh-cn; mi 3w build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.3; zh-cn; hm 1sw build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.3; zh-cn; hm 1sc build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; hm note 1td build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+xiaomi_2013022_td/v1 linux/3.4.5 android/4.2.1 release/03.11.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
+xiaomi_2013061_td/v1 linux/3.4.5 android/4.2.1 release/09.18.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
+
+//nokia
+nokia5230
+nokia5233
+mqqbrowser/3.6 (nokia5233;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia5230;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokiac5-03;symbianos/9.1 series60/3.0)
+
+//htc
+//htc hero - Android OS 1.5
+qqbrowser (linux; u; zh-cn; htc hero build/frf91)
+
+
+
