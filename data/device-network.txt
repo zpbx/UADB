@@ -10,6 +10,7 @@ mozilla/5.0 (linux; u; android 4.2.2; zh-cn; coolpad7296 build/4.2.006.130523.72
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; coolpad 7295a build/4.1.003.130605.7295a; 480*854; cucc/2.0) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 baiduboxapp/4.2 (baidu; p1 4.1.2)
 mqqbrowser/26 (linux; u; 2.2.2; zh-cn; zte-u v880 build/uni_cn_v880 2.1;480*800)
 mozilla/5.0 (linux; u; android 4.0.4; zh-cn; zte u795 build/imm76d) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; lenovo a298t build/mocordroid2.3.5) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
 
 //ctc
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; hw-huawei_c8815/c8815v100r001c92b137; 540*960; ctc/2.0) applewebkit/534.30 (khtml, like gecko) mobile safari/534.30
@@ -35,5 +36,6 @@ coolpad8720q_cmcc_td/1.0 linux/3.4.5 android/4.2 release/3.29.2013 browser/apple
 philips t3566_td/v1 linux/3.4.5 android/4.2.2 release/05.02.2013 browser/applewebkit534.30 mobile safari/534.30;
 hs-t818_td/1.0 linux/2.6.35 android/2.3.5 release/01.06.2013 mozilla/5.0 (linux; u; android 2.2) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
 mozilla/5.0 (linux; u; android 4.2.1; zh-cn; coolpad8297_cmcc_td/1.0 android/4.2.1 release/02.20.2014 browser/applewebkit534.30 profile/midp-1.0 configuration/cldc-1.0) applewebkit/534.30 (khtml, like gecko) version/4.2 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; hm note 1td build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 
 

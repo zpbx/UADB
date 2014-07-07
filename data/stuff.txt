@@ -69,11 +69,11 @@ mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2s build/jro03l) applewebkit/534
 mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2sc build/jro03l) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.2.1; zh-cn; mi 3 build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.3; zh-cn; mi 3w build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; hm note 1td build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 xiaomi_2013022_td/v1 linux/3.4.5 android/4.2.1 release/03.11.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
 xiaomi_2013061_td/v1 linux/3.4.5 android/4.2.1 release/09.18.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
 //android - miui - miui
 mozilla/5.0 (linux; u; android 4.2.1; zh-cn; 2013022 build/hm2013022) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
-mozilla/5.0 (linux; u; android 4.2.2; zh-cn; hm note 1td build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 
 //android - 2345
 mozilla/5.0 (linux; u; android 4.2.2; zh-cn; galaxy nexus build/jdq39) applewebkit/534.30 (khtml, like gecko) version/5.0 mb2345browser/4.0 mobile safari/534.30
@@ -143,6 +143,11 @@ oppoa125/4.02/12 release/2010.8.10 browser/obigo/q03c profile/midp-2.0 configura
 
 //nf
 huawei t7320_td/1.0 release/10.08.2010 threadx/4.0 mocor/w10 browser/nf4.0 profile/midp-2.1 configuration/cldc-1.1
+samsung-gt-s5230c/1.0 shp/r5 release/02.01.2009 browser/netfront3.5 smm-mms/1.2.0 profile/midp-2.0 configuration/cldc-1.1
+
+//dolfin
+samsung-gt-s3850/1.0 shp/vpp/r5 dolfin/2.0 smm-mms/1.2.0 profile/midp-2.1 configuration/cldc-1.1
+
 
 //???
 dorado wap-browser/1.0.0

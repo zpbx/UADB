@@ -7,11 +7,13 @@ mozilla/5.0 (linux; u; android 4.1.1; zh-cn; samsung-gt-n7108_td/1.0 android/4.1
 mozilla/5.0 (linux; u; android 4.0.4; zh-cn; samsung-gt-s7568_td/1.0 android/4.0.4 release/07.15.2012 browser/applewebkit534.30 build/imm76d) applelwebkit/534.30 (khtml,like gecko) version/4.0 mobile safari/534.30
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; samsung-gt-s7568i_td/1.0 android/4.1.2 release/07.15.2013 browser/applewebkit534.30 build/jro03l) applelwebkit/534.30 (khtml,like gecko) version/4.0 mobile safari/534.30
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; samsung-sm-g3819d build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; android 4.3; zh-cn; samsung sm-n9002 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 mobile safari/537.36
 mozilla/5.0 (linux; android 4.3; zh-cn; samsung-sm-n9009 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 mobile safari/537.36
 mozilla/5.0 (linux; android 4.3; zh-cn; samsung-sm-g7108_td release/08.30.2013 browser/applewebkit537.36 build/jss15j) applewebkit/537.36 (khtml, like gecko) version/1.5 mobile safari/537.36
 mozilla/5.0 (linux; android 4.2.2; zh-cn; samsung-sm-g3818_td/1.0 android/4.2.2 release/08.15.2013 browser/applewebkit535.19 build/jdq39) applelwebkit/535.19 (khtml, like gecko) version/1.0 mobile safari/535.19
 samsung-gt-i9128i_td/1.0 android/4.2.2 release/04.03.2013 browser/applewebkit535.19
 samsung-gt-i8258_td/1.0 android/4.0.4 release/09.24.2012 browser/applewebkit534.30
+samsung-gt-s5230c/1.0 shp/r5 release/02.01.2009 browser/netfront3.5 smm-mms/1.2.0 profile/midp-2.0 configuration/cldc-1.1
 samsung-gt-s3850/1.0 shp/vpp/r5 dolfin/2.0 smm-mms/1.2.0 profile/midp-2.1 configuration/cldc-1.1
 mqqbrowser/mini2.6 (samsung-gt-s5292)
 //sch
@@ -26,6 +28,8 @@ mozilla/5.0 (linux; u; android 4.0.4; zh-cn; sch-w2013 build/imm76d) applewebkit
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; gt-i8552 build/jzo54k) applewebkit/537.36 (khtml, like gecko)version/4.0 mqqbrowser/5.2 mobile safari/537.36
 mozilla/5.0 (linux; u; android 4.1.2; zh-cn; gt-i9082i build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
 mozilla/5.0 (linux; u; android 4.2.2; zh-cn; gt-i9152 build/jdq39) applewebkit/537.36 (khtml, like gecko)version/4.0 mqqbrowser/5.2 mobile safari/537.36
+//GALAXY ???
+mozilla/5.0 (linux; u; android 4.0.2; en-us; galaxy nexus build/icl53f) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
 //GALAXY S???
 mozilla/5.0 (linux; u; android 2.3.5; zh-cn; gt-i9100 build/gingerbread) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
 //GALAXY SIII
@@ -36,27 +40,132 @@ mozilla/5.0 (linux; android 4.3; zh-cn; samsung gt-i9500 build/jss15j) applewebk
 
 //xiaomi
 mozilla/5.0 (linux; u; android 4.0.1; zh-cn; mi-one plus build/itl41d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 4.0.4; zh-cn; mi 1s build/imm76d) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
 mozilla/5.0 (linux; android 4.1.1; mi 2 build/jro03l) applewebkit/537.36 (khtml, like gecko) version/4.0 mobile safari/537.36 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2 build/jro03l) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2a build/jro03l) applewebkit/533.1 (khtml, like gecko) version/4.0 ucbrowser/9.8.0.435 u3/0.8.0 mobile safari/533.1
 mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2s build/jro03l) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.1.1; zh-cn; mi 2sc build/jro03l) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.2.1; zh-cn; mi 3 build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
+mozilla/5.0 (linux; u; android 4.3; zh-cn; mi 3c build/jls36c) applewebkit/533.1 (khtml, like gecko) version/4.0 ucbrowser/9.8.0.435 u3/0.8.0 mobile safari/533.1
 mozilla/5.0 (linux; u; android 4.3; zh-cn; mi 3w build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.3; zh-cn; hm 1sw build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.3; zh-cn; hm 1sc build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 mozilla/5.0 (linux; u; android 4.2.2; zh-cn; hm note 1td build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30 xiaomi/miuibrowser/1.0
 xiaomi_2013022_td/v1 linux/3.4.5 android/4.2.1 release/03.11.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
 xiaomi_2013061_td/v1 linux/3.4.5 android/4.2.1 release/09.18.2013 browser/applewebkit534.30 mobile safari/534.30 mbbms/2.2 system/android 4.2.1 xiaomi/miuibrowser/1.0
+ucweb/2.0 (linux; u; adr 4.2.1; zh-cn; mi 3) u2/1.0.0 ucbrowser/9.8.0.435 u2/1.0.0 mobile
 
 //nokia
+nokia 5320
+nokia5130/07.95
 nokia5230
 nokia5233
-mqqbrowser/3.6 (nokia5233;symbianos/9.1 series60/3.0)
+nokia5235
+nokia6120ci
+nokiae63
+nokiae71
+nokiac5-03
+nokian8-00
+(c)nokianxx/symbianos/9.1 series60/3.0 3gpp-gba
+e63/symbianos/9.1 series60/3.0
+e63-1/symbianos/9.1 series60/3.0
+e66/symbianos/9.1 series60/3.0
+e71/symbianos/9.1 series60/3.0
+e71-1/symbianos/9.1 series60/3.0
+nokian72/symbianos/8.0 series60/2.6
+nokia6122ccn01.02/symbianos/9.1 series60/3.0
+nokia6120cib11.04/symbianos/9.1 series60/3.0
+nokia5233/symbianos/9.1 series60/3.0 3gpp-gba
+nokia5320(19.01)/symbianos/9.1 series60/3.0
+nokia5320dixpressmusic(19.01)/symbianos/9.1 series60/3.0
+nokia3050/2.0 (03.60) profile/midp-2.1 configuration/cldc-1.1
+nokia5130/2.0 (07.95) profile/midp-2.1 configuration/cldc-1.1
+nokia6120c/3.83; profile/midp-2.0 configuration/cldc-1.1
+nokia5230/ucweb8.9.0.253/50/999
+nokia5233/ucweb8.9.0.253/50/999
+nokiac5-03/ucweb8.9.0.253/50/999
+nokian8-00/ucweb8.9.0.253/51/800
+nokiae63/ucweb8.9.0.253/28/999
+mqqbrowser/3.3 (nokianxx;symbianos/9.1 series60/3.0)
 mqqbrowser/3.6 (nokia5230;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia5233;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia5250;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia5800wxpressmusic;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia500;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokia603;symbianos/9.1 series60/3.0)
 mqqbrowser/3.6 (nokiac5-03;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokiac5-05;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokiac6-00;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokiac6-01;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokiac7-00;symbianos/9.1 series60/3.0)
+mqqbrowser/3.6 (nokian8-00;symbianos/9.1 series60/3.0)
+mozilla/5.0 (symbianos/9.3; u; series60/3.2 nokiae75-1/110.48.125 profile/midp-2.1 configuration/cldc-1.1 ) applewebkit/413 (khtml, like gecko) safari/413
+nokia5233/51.1.002 (symbianos/9.4; u; series60/5.0; mozilla/5.0; profile/midp-2.1 configuration/cldc-1.1) applewebkit/413 (khtml,like gecko) safari/413 3gpp-gba
+nokia5233/40.1.003 (symbianos/9.4; u; series60/5.0; mozilla/5.0; profile/midp-2.1 configuration/cldc-1.1) applewebkit/413 (khtml,like gecko) safari/413 3gpp-gba
+ucweb/2.0 (windows; u; wds 7.10; zh-cn; nokia; nokia 610) u2/1.0.0 ucbrowser/3.2.0.340 u2/1.0.0 mobile
+ucweb/2.0 (windows; u; wds 8.0; zh-cn; nokia; rm-914_apac_prc_227) u2/1.0.0 ucbrowser/3.5.0.410 u2/1.0.0 mobile
 
 //htc
 //htc hero - Android OS 1.5
 qqbrowser (linux; u; zh-cn; htc hero build/frf91)
+mozilla/5.0 (linux; u; android 4.0.3; zh-cn; htc t328d build/iml74k) uc applewebkit/530+ (khtml, like gecko) mobile safari/530
+mozilla/5.0 (linux; u; android 4.0.3; zh-cn; htc t328w build/iml74k) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.0.4; zh-cn; htc incredible s build/imm76d) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; htc incredible s build/grj90) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; htc desire hd a9191 build/grj90) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.0.3; zh-cn; htc sensation xe with beats audio z715e build/iml74k) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.0.3; zh-cn; htc evo 3d x515m build/iml74k) applewebkit/534.31 (khtml, like gecko) ucbrowser/9.2.4.329 u3/0.8.0 mobile safari/534.31
+htct327t_td/1.0 android/4.0 release/2012 browser/wap2.0 profile/midp-2.0 configuration/cldc-1.1
+htct328t_td/1.0 android/4.0 release/2012 browser/wap2.0 profile/midp-2.0 configuration/cldc-1.1
+htct329t_td/1.0 android/4.0 release/2012 browser/wap2.0 profile/midp-2.0 configuration/cldc-1.1
+htct528t_td/1.0 android/4.0 release/2012 browser/wap2.0 profile/midp-2.0 configuration/cldc-1.1
+juc(linux; u;2.3.5;zh_cn;htc c510e;320*480;)ucweb7.6.0.75/139/32317
 
+
+//sony
+sonyericssonk700c/r2ae semc-browser/4.0.3 profile/midp-2.0 configuration/cldc-1.1
+mozilla/5.0 (linux; u; android 2.3.4; zh-cn; sonyericssonlt18i build/4.0.2.a.0.62) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+
+//lenovo
+lenovo-a208t_td/s100 linux/2.6.35 android 2.3.5 release/01.22.2013 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a218t_td/s100 linux/2.6.35 android 2.3.5 release/03.05.2013 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a278t_td/s100 linux/2.6.35 android 2.3.5 release/09.03.2012 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a278t_td/s100 linux/2.6.35 android/2.3.5 release/09.03.2012 browser/applewebkit533.1 mobile safari/533.1lenovo-lenovo-a278t/1.0 linux/2.6.35.7 android 2.3.5 release/04.08.2013 browser/applewebkit533.1 (khtml, like gecko) mozilla/5.0 mobile
+lenovo-lenovo-a298t/1.0 linux/2.6.35.7 android 2.3.5 release/12.13.2012 browser/applewebkit533.1 (khtml, like gecko) mozilla/5.0 mobile
+lenovo-a300t_td/s100 linux/2.6.35 android/2.3.5 release/08.01.2013 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a308t_td/s100 linux/3.4.5 android/2.3.6 release/03.26.2013 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a318t_td/s100 linux/3.4.5 android/2.3.6 release/04.26.2013 browser/applewebkit533.1 mobile safari/533.1
+lenovo-a366t_td/s100 linux/2.6.35 android/2.3 release/11.01.2011 browser/applewebkit533.1 mobile safari/533.1 mbbms/2.0
+lenovo-a390t_td/s100 release/11.2012 mozilla/5.0 (linux; u; android 4.0.3) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+lenovo-a630t_td/s100 linux/3.0.13 android/4.0 release/10.08.2012 browser/applewebkit534.30 mobile safari/534.30
+lenovoa658t_td/1.0 android 4.0.3 release/10.01.2012 browser/wap2.0 applewebkit/534.30
+lenovo-a670t_td/s100 linux/3.4.5 android/4.2 release/03.11.2013 browser/applewebkit534.30 mobile safari/534.30;
+lenovo s720/s100 linux/3.0.13 android/4.0.3 release/12.12.2011 browser/applewebkit534.30 profile/midp-2.0 configuration/cldc-1.1 mobile safari/534.30
+lenovo a789/s210 linux/3.0.13 android/4.0 release/05.11.2012 browser/applewebkit533.1 profile/ configuration/
+lenovo-a820t_td/s100 linux/3.4.0 android/4.1 release/1.4.2013 browser/applewebkit534.30 mobile safari/534.30
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; lenovo a298t build/mocordroid2.3.5) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.0.3; zh-cn; lenovo a390t build/iml74k) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.1.1; zh-cn; lenovo a590 build/jro03c) applewebkit/534.30 (khtml, like gecko) version/4.1 mobile safari/534.30
+mozilla/5.0 (linux; u; android 2.3.6; zh-cn; lenovo a690/s001) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 2.3.6; zh-cn; lenovo a60+ build/lenovolephone) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 4.1; zh-cn; lenovo-a3000-h/s100) applewebkit/534.30 (khtml, like gecko) version/4.1 mobile safari/534.30
+
+//nexus
+mozilla/5.0 (linux; u; android 2.2; en-us; nexus one build/frf91) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; galaxy nexus build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+
+//zte
+zte-me/mobile
+zte-tu880_td/1.0 linux/2.6.32 android/2.2 release/5.25.2011 browser/applewebkit533.1
+zteu790_td/1.0 linux/2.6.35 android/2.3 release/7.5.2012 browser/applewebkit533.1
+zteu793_td/1.0 linux/2.6.35 android/2.3.5 release/01.04.2013 browser/applewebkit533.1
+mozilla/5.0 (linux; u; android 2.3.5; zh-cn; zte u793 build/mocordroid2.3.5) uc applewebkit/534.31 (khtml, like gecko) mobile safari/534.31
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; zte u819 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30; 360browser(securitypay,securityinstalled); 360(android,uppayplugin); 360 aphone browser (5.4.1)
+mozilla/5.0 (linux; u; android 2.2.2; zh-cn; zte-u v880 build/frf91) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (linux; u; android 4.1.2; zh-cn; zte u956 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30; 360browser(securitypay,securityinstalled); 360(android,uppayplugin); 360 aphone browser (5.4.1)
+mozilla/5.0 (linux; u; android 4.2.2; zh-cn; zte u988s build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30; 360browser(securitypay,securityinstalled); 360(android,uppayplugin); 360 aphone browser (5.4.1)
+
+juc(linux;u;2.2.2;zh_cn;zte-u v880;480*800;)ucweb7.6.0.75/139/32014
 
 
