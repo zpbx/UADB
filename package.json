@@ -4,6 +4,7 @@
   "description": "User-agent database, and parser.",
   "main": "index.js",
   "scripts": {
+    "ua": "node lib/index.js",
     "test": "mocha"
   },
   "repository": {
@@ -26,7 +27,7 @@
     "chai": "^1.9.1"
   },
   "dependencies": {
-    "csv": "^0.4.0",
+    "csv": "^0.3.7",
     "underscore": "^1.6.0",
     "underscore.string": "^2.3.3",
     "ua-parser-js": "^0.7.0"
